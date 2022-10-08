@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="oclint-22.02"><file name="/Users/bairdweng/Desktop/SonarQueProject/SonarQueProject/ViewController.m">
+<violation begincolumn="15" endcolumn="0" beginline="21" endline="0" priority="2" rule="compiler warning" ruleset="clang" >
+unused variable &apos;aa&apos;
+</violation>
+</file>
+
+<file name="/Users/bairdweng/Desktop/SonarQueProject/SonarQueProject/ViewController.m">
+<violation begincolumn="9" endcolumn="0" beginline="22" endline="0" priority="2" rule="compiler warning" ruleset="clang" >
+unused variable &apos;a&apos;
+</violation>
+</file>
+
+<file name="/Users/bairdweng/Desktop/SonarQueProject/SonarQueProject/ViewController.m">
+<violation begincolumn="15" endcolumn="0" beginline="25" endline="0" priority="2" rule="compiler warning" ruleset="clang" >
+unused variable &apos;a3&apos;
+</violation>
+</file>
+
+<file name="/Users/bairdweng/Desktop/SonarQueProject/SonarQueProject/ViewController.m">
+<violation begincolumn="15" endcolumn="0" beginline="22" endline="0" priority="2" rule="compiler warning" ruleset="clang" >
+division by zero is undefined
+</violation>
+</file>
+
+<file name="/Users/bairdweng/Desktop/SonarQueProject/SonarQueProject/ViewController.m">
+<violation begincolumn="13" endcolumn="0" beginline="37" endline="0" priority="2" rule="compiler warning" ruleset="clang" >
+this old-style function definition is not preceded by a prototype
+</violation>
+</file>
+
+<file name="/Users/bairdweng/Desktop/SonarQueProject/SonarQueProject/ViewController.m">
+<violation begincolumn="9" endcolumn="18" beginline="40" endline="40" priority="3" rule="broken oddness check" ruleset="basic" >
+
+</violation>
+</file>
+
+<file name="/Users/bairdweng/Desktop/SonarQueProject/SonarQueProject/ViewController.m">
+<violation begincolumn="5" endcolumn="5" beginline="41" endline="42" priority="3" rule="empty if statement" ruleset="empty" >
+
+</violation>
+</file>
+
+<file name="/Users/bairdweng/Desktop/SonarQueProject/SonarQueProject/ViewController.m">
+<violation begincolumn="5" endcolumn="21" beginline="21" endline="21" priority="5" rule="unused local variable" ruleset="unused" >
+The local variable &apos;aa&apos; is unused.
+</violation>
+</file>
+
+<file name="/Users/bairdweng/Desktop/SonarQueProject/SonarQueProject/ViewController.m">
+<violation begincolumn="5" endcolumn="16" beginline="22" endline="22" priority="5" rule="unused local variable" ruleset="unused" >
+The local variable &apos;a&apos; is unused.
+</violation>
+</file>
+
+<file name="/Users/bairdweng/Desktop/SonarQueProject/SonarQueProject/ViewController.m">
+<violation begincolumn="5" endcolumn="27" beginline="25" endline="25" priority="5" rule="unused local variable" ruleset="unused" >
+The local variable &apos;a3&apos; is unused.
+</violation>
+</file>
+
+<file name="/Users/bairdweng/Desktop/SonarQueProject/SonarQueProject/test2/AppDelegate.m">
+<violation begincolumn="108" endcolumn="125" beginline="26" endline="26" priority="5" rule="long variable name" ruleset="naming" >
+Length of variable name `connectingSceneSession` is 22, which is longer than the threshold of 20
+</violation>
+</file>
+
+</pmd>
